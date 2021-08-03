@@ -1,3 +1,8 @@
+# Reference:
+# https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code
+# https://o365blog.com/post/phishing/
+# https://github.com/rvrsh3ll/TokenTactics
+
 import requests
 import json
 import time
