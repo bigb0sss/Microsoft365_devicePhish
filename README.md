@@ -13,7 +13,7 @@ $ python3 devicePhish.py
 ## Example
 Generating `user_code` and `device_code` from an Azure App:
 
-![image](./screenshots/1_code_generation.png)
+![image](1_code_generation.png)
 
 Upon successfull phishing attack, obtaining `access_token` & `refresh_token` for a victim user:
 
