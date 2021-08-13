@@ -13,19 +13,19 @@ $ python3 devicePhish.py
 ## Example
 Generating `user_code` and `device_code` from an Azure App:
 
-![image](1_code_generation.png)
+![image](./screenshots/1_code_generation.png)
 
 Upon successfull phishing attack, obtaining `access_token` & `refresh_token` for a victim user:
 
-![image](2_tokens.png)
+![image](./screenshots/2_tokens.png)
 
 After an Email OTP is triggered, reading the OTP code from the victim's email inbox:
 
-![image](3_read_email.png)
+![image](./screenshots/3_read_email.png)
 
 After reading the Email OTP code, it deletes the OTP email:
 
-![image](4_delete_email.png)
+![image](./screenshots/4_delete_email.png)
 
 
 ## Credits & References
