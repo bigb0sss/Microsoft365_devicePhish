@@ -166,6 +166,7 @@ if __name__ == "__main__":
 
     print(colored("[INFO] user_code: %s" % user_code, 'green'))
     print(colored("[INFO] device_code: %s\n" % device_code, 'green'))
+    print(colored("[INFO] Attack URL: https://microsoft.com/devicelogin\n", 'green'))
 
     token = getAccessToken(url_token, clientId, device_code)
     access_token = token['access_token']
